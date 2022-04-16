@@ -158,6 +158,10 @@ a.source:visited {
   color: #333;
 }
 
+.header__logo {
+  width: 200px;
+}
+
 /* Storymap title & subtitle */
 h1 {
   margin: 0;
