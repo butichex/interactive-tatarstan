@@ -1,11 +1,14 @@
 var constants = {
+	// Storymapap Info
   _mapTitle: 'Interactive Tatarstan Title',
   _mapSubtitle: 'Interactive Tatarstan Subtitle',
   _mapLogo: 'Interactive Tatarstan Logo',
+  // Credits
 	_authorName: 'Имя автора:',
 	_authorURL: 'Почта автора или веб-сайт:',
   _codeCredit: 'Автор кода:',
 	_githubRepo: 'Автор репозитория GitHub',
+	// Map Settings
 	_tileProvider: 'Basemap Tiles',
 	_zoomControls: 'Zoom Controls',
   _narrativeWidth: 'Narrative Width',
